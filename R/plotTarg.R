@@ -37,7 +37,7 @@ plotTargEco <- function(LB_pars=NULL, LB_lengths=NULL, yr=1, Cols=NULL, title=NU
     t4 = "Deve fornecer SL50 (LB_pars@SL50)"
     t5 = "Deve fornecer SL95 (LB_pars@SL95)"
     t6 = "Estrutura de tamanho"
-    t7 = "Alvo"
+    t7 = "Modelado"
     t8 = "Amostra"
     t9 = "PRR alvo: "
     t10 = "Comprimento"
