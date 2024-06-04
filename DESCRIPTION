@@ -1,12 +1,12 @@
 Package: prrEcopesca
-Title: Analysis and Visualization of Fish Populations' Spawning Potential Ratio.
+Title: Interactive Analysis and Visualization of Fish Populations' Spawning Potential Ratio
 Version: 1.1.0
 Authors@R: 
     c(person("Felipe Douglas Mendonça", "Cadilho", email = "sr.cadilho@gmail.com", role = c("aut", "cre")),
              person("Marcus Rodrigues", "da Costa", email = "marcusrc@id.uff.br", role = "aut"),
              person("Paulo Roberto Camponez", "de Almeida", email = "prcalmeida@id.uff.br", role = "aut"))
 Maintainer: Felipe Douglas Mendonça Cadilho <sr.cadilho@gmail.com>
-Description: The prrEcopesca package is designed to facilitate the analysis and visualization of the Spawning Potential Ratio (SPR) of fish populations by comparing observed size structure with target size structure. This package is ideal for marine biologists, ecologists, and fishery managers who need to monitor and evaluate the sustainability of fish populations.
+Description: The prrEcopesca package is an enhanced, interactive customization of the LBSPR package, designed to facilitate the analysis and visualization of the Spawning Potential Ratio (SPR) of fish populations. This package compares observed size structure with target size structure, and it is ideal for marine biologists, ecologists, and fishery managers who need to monitor and evaluate the sustainability of fish populations.
 License: GPL (>= 3)
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
