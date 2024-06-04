@@ -1,7 +1,8 @@
-# prrEcopesca: Analysis and Visualization of Fish Populations' Spawning Potential Ratio.
-The prrEcopesca package is designed to facilitate the analysis and visualization of the Spawning Potential Ratio (SPR) of fish populations 
-by comparing observed size structure with target size structure. This package is ideal for marine biologists, ecologists, 
-and fishery managers who need to monitor and evaluate the sustainability of fish populations.
+# prrEcopesca: Interactive Analysis and Visualization of Fish Populations' Spawning Potential Ratio
+The prrEcopesca package is an enhanced, interactive customization of the LBSPR package, designed to facilitate 
+the analysis and visualization of the Spawning Potential Ratio (SPR) of fish populations. This package compares observed 
+size structure with target size structure, and it is ideal for marine biologists, ecologists, and fishery managers who 
+need to monitor and evaluate the sustainability of fish populations.
 
 ## Package Installation Instructions
 ### Prerequisites for Installing the Package
@@ -33,17 +34,18 @@ and fishery managers who need to monitor and evaluate the sustainability of fish
 
 ## Main Features
 
-### Bar Graph Generation 
-Creates histograms that compare observed size structure with target size structure, making it easy to visualize the differences between collected data and management goals.
+### Interactive Data Entry 
+Provides user-friendly questionnaires to facilitate data input, making it easier for users to input and manage their data accurately.
+### Customizable Bar Graphs 
+Creates histograms that compare observed size structure with target size structure, with extensive customization options for labels, colors, titles, and more.
 ### SPR Analysis 
 Includes calculations and visualizations of SPR to help understand the reproductive capacity of the population relative to a defined target.
-### Customization 
-Offers various customization options for the graphs, allowing adjustments to labels, colors, titles, and more, to meet the specific needs of the user.
+User Interaction: Engages users through interactive elements, enhancing the user experience and ensuring precise data collection.
 
-# prrEcopesca: Análise e Visualização do Potencial Remanescente Reprodutivo de Populações de Peixes
-O pacote prrEcopesca foi desenvolvido para facilitar a análise e visualização do Potencial Remanescente Reprodutivo (PRR) de populações de peixes, 
-comparando a estrutura de tamanho observada com a estrutura de tamanho alvo. Este pacote é ideal para biólogos marinhos, 
-ecologistas e gestores de pesca que precisam monitorar e avaliar a sustentabilidade das populações de peixes.
+# prrEcopesca: Análise e Visualização Interativa do Potencial Remanescente Reprodutivo de Populações de Peixes
+O pacote prrEcopesca é uma personalização aprimorada e interativa do pacote LBSPR, desenvolvido para facilitar a análise e visualização do 
+Potencial Remanescente Reprodutivo (PRR) de populações de peixes. Este pacote compara a estrutura de tamanho observada com a estrutura de tamanho alvo e 
+é ideal para biólogos marinhos, ecologistas e gestores de pesca que precisam monitorar e avaliar a sustentabilidade das populações de peixes.
 
 ## Instruções de instalação do pacote
 ### Pré-requisitos para instalar o pacote
@@ -73,9 +75,11 @@ ecologistas e gestores de pesca que precisam monitorar e avaliar a sustentabilid
 4. Responda às perguntas do programa para personalizar a análise de acordo com suas necessidades.
 
 ## Funcionalidades Principais
-### Geração de Gráficos de Barras 
-Cria histogramas que comparam a estrutura de tamanho observada com a estrutura de tamanho esperada, facilitando a visualização das diferenças entre os dados coletados e os objetivos de manejo.
+
+### Entrada de Dados Interativa 
+Fornece questionários amigáveis para facilitar a entrada de dados, tornando mais fácil para os usuários inserir e gerenciar seus dados com precisão.
+### Gráficos de Barras Personalizáveis 
+Cria histogramas que comparam a estrutura de tamanho observada com a estrutura de tamanho alvo, com amplas opções de personalização para rótulos, cores, títulos e mais.
 ### Análise do SPR (Spawning Potential Ratio) 
 Inclui cálculos e visualizações do SPR para ajudar a entender a capacidade reprodutiva da população em relação a uma meta definida.
-### Customização 
-Oferece várias opções de customização para os gráficos, permitindo ajustes nos rótulos, cores, títulos e mais, para atender às necessidades específicas do usuário.
+Interatividade com o Usuário: Engaja os usuários através de elementos interativos, melhorando a experiência do usuário e garantindo uma coleta de dados precisa.
