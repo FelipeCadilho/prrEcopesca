@@ -1,12 +1,12 @@
 Package: prrEcopesca
-Title: PRR
-Version: 0.0.1.0323
+Title: Analysis and Visualization of Fish Populations' Spawning Potential Ratio.
+Version: 1.1.0
 Authors@R: 
     c(person("Felipe Douglas Mendonça", "Cadilho", email = "sr.cadilho@gmail.com", role = c("aut", "cre")),
              person("Marcus Rodrigues", "da Costa", email = "marcusrc@id.uff.br", role = "aut"),
              person("Paulo Roberto Camponez", "de Almeida", email = "prcalmeida@id.uff.br", role = "aut"))
 Maintainer: Felipe Douglas Mendonça Cadilho <sr.cadilho@gmail.com>
-Description: Pesquisas em recursos pesqueiros carecem da centralização de seus métodos matemáticos em uma plataforma computacional única. Portanto, este pacote em linguagem R agrega rotinas para análises de idade, crescimento e mortalidade de recursos pesqueiros utilizando dados básicos como idade e tamanho. Tais informações são importantes parâmetros populacionais para gestão das pescarias artesanais/industriais a partir da integralização dos resultados.
+Description: The prrEcopesca package is designed to facilitate the analysis and visualization of the Spawning Potential Ratio (SPR) of fish populations by comparing observed size structure with target size structure. This package is ideal for marine biologists, ecologists, and fishery managers who need to monitor and evaluate the sustainability of fish populations.
 License: GPL (>= 3)
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
