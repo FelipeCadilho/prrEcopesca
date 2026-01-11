@@ -46,7 +46,7 @@ criabase <- function (nome_dados, extensao, planilha=NULL, separador=NULL, exclu
       meus_dados <<- read_excel(arquivo, sheet = planilha)
     }
   }else if(dado == "dataframe"){
-    meus_dados <<- nome_dados
+    meus_dados <<- get(nome_dados)
   }else if(dado == "csv"){
     if(is.null(separador)){
       meus_dados <<- read.csv(file = arquivo, header = TRUE)
@@ -99,3 +99,4 @@ criabase <- function (nome_dados, extensao, planilha=NULL, separador=NULL, exclu
     return(dados)
   }
 }
+
